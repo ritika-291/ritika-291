@@ -56,14 +56,6 @@
 
 ---
 
-## 📌 Featured Projects  
-- 🔹 **Project 1** — add your description here  
-- 🔹 **Project 2** — add your description here  
-- 🔹 **Project 3** — add your description here  
-
-> *(Add links once your projects are uploaded.)*
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
