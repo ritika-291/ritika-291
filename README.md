@@ -30,17 +30,17 @@
 
 ### **Backend & Logic ⚙️**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,c,java,python&theme=dark" height="50px" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,c&theme=dark" height="50px" alt="Backend Skills"/>
 </p>
 
 ### **Data & Storage 🗄️**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" height="50px" alt="Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,&theme=dark" height="50px" alt="Database Skills"/>
 </p>
 
 ### **Tools, Monitoring & DevOps ☁️**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,grafana,docker,netlify&theme=dark" height="50px" alt="Tools and DevOps Skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,grafana,netlify&theme=dark" height="50px" alt="Tools and DevOps Skills"/>
 </p>
 
 ---
