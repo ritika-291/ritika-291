@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" width="180px" style="border-radius: 50%; border: 4px solid #30A8D8;" alt="Graphic Coder GIF"/>
-  <br/>
-  <h1>✨ Ritika Kumari ✨</h1>
+  <h1> Ritika Kumari </h1>
   <h2>
-    **Full-Stack Architect in the Making | MERN Stack Engineer**
+    Full-Stack Architect in the Making | MERN Stack Developer
   </h2>
 </div>
 
 ---
 
-### 🚀 Developer Bio
+###  Developer Bio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively_Building-30A8D8?style=flat&logo=react&logoColor=white&color=blue" alt="Status Badge"/>
@@ -23,22 +21,22 @@
 
 ## 🛠 My Essential Toolkit: The Tech Stack
 
-### **Frontend & UX 🎨**
+### Frontend & UX 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" height="50px" alt="Frontend Skills"/>
 </p>
 
-### **Backend & Logic ⚙️**
+### Backend & Logic
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,c&theme=dark" height="50px" alt="Backend Skills"/>
 </p>
 
-### **Data & Storage 🗄️**
+### Data & Storage 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,&theme=dark" height="50px" alt="Database Skills"/>
 </p>
 
-### **Tools, Monitoring & DevOps ☁️**
+### Tools, Monitoring & DevOps 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,grafana,netlify&theme=dark" height="50px" alt="Tools and DevOps Skills"/>
 </p>
@@ -55,7 +53,7 @@
 
 ---
 
-## 📨 Let's Connect & Collaborate!
+## Social Media
 <p align="center">
   <a href="https://www.linkedin.com/in/ritika-kumari-b81a88290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
